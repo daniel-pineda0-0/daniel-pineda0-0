@@ -16,7 +16,7 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad
 
 Me gusta entender bien cómo funcionan las cosas antes de solo "hacerlas funcionar" — estructuras de datos, buenas prácticas y arquitectura de software son temas que disfruto especialmente.
 
-Fuera del código vuelo en **parapente** — la misma mentalidad de resolver problemas en tiempo real, solo que unos metros más arriba.
+
 
 <br>
 
