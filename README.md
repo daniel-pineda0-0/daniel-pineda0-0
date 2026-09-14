@@ -15,9 +15,6 @@
 Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**, cursando actualmente 6º semestre. Me estoy formando principalmente en el ecosistema **Java**, con **Spring Boot** para desarrollo backend, y complementando con bases de datos (SQL), y fundamentos de frontend con **HTML, CSS y JavaScript**.
 
 Me gusta entender bien cómo funcionan las cosas antes de solo "hacerlas funcionar" — estructuras de datos, buenas prácticas y arquitectura de software son temas que disfruto especialmente.
-
-Fuera del código, toco **guitarra** 🎸 y vuelo **parapente** 🪂 — dos formas distintas de encontrar equilibrio (una muy en el suelo, otra bastante en el aire).
-
 <br>
 
 ## Stack y herramientas
@@ -68,7 +65,7 @@ Implementación de una lista enlazada desde cero, aplicando fundamentos de estru
 </td>
 <td width="50%">
 
-### 🚀 Próximamente
+### Próximamente
 Aquí irá mi próximo proyecto — sígueme para verlo cuando esté listo.
 
 </td>
